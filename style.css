@@ -1,0 +1,56 @@
+  body{
+    margin: 0px;
+  }
+  .navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 20px;
+    height: 40px;
+  }
+  .list {
+    float:right;
+    list-style: none;  
+  }
+  
+  .list li {
+    display: inline;
+    margin-left: 20;
+    
+  }
+  .logo {
+    font-size: 1.5rem;
+    color:pink;
+    font-weight: bold;
+ }
+  
+  .services{
+    text-align: center ;
+    margin: 30px 10px; 
+
+  }
+   h1{
+    font-size: 3rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+
+  .box {
+    text-align: center; 
+}
+
+.box div {
+    display: inline-block;
+    vertical-align: top; 
+    width: 25%; 
+    margin: 50px 30px 10px 5px; 
+    box-sizing: border-box;
+}
+.icon img{
+    width: 150px;       
+    height: 150px;      
+    border-radius: 50%; 
+    object-fit: cover;
+}
+
+  
+  
